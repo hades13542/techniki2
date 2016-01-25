@@ -1,0 +1,13 @@
+table.data { border-collapse:collapse; width:90%;  font-size:12px;  }
+table.data, table.data td, table.data th { border:1px solid blue; }
+table.data th { background-color: aqua; }
+table.data tr { background-color: #f0f8ff; }
+table.data td { padding-left:10px; }
+.val   { text-align:right ; padding-right:10px; }
+.lp    { text-align:right ; padding-right:10px; }
+
+tr.evenRow { background-color:#DEE7F0; }
+.right { float:left; width:400px; padding:0 10px; }
+.left  { float:left; width:400px; padding-left:30px; }
+
+#piechart { width:500px; height:300px; }
