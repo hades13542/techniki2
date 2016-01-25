@@ -1,6 +1,6 @@
 <?php
 $client = new SoapClient(null, array(
-    'location' => "http://pascal.fis.agh.edu.pl/~3najuch/test2/zad2PDO.php",
+    'location' => "http://pascal.fis.agh.edu.pl/~3hujdus/techniki2/zad2PDO.php",
     'uri' => "http://pascal.fis.agh.edu.pl/Demo",
     'soap_version' => SOAP_1_2,
     'trace' => 1

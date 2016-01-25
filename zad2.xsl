@@ -8,7 +8,7 @@
     <html>
       <head>
         <title>Zadanie 2 - WebService</title>
-        <meta name="author" content="Paweł Najuch" />
+        <meta name="author" content="Dawid Hujdus" />
         <link type="text/css" href="zad2.css" rel="stylesheet" />
         <script src="jquery-2.2.0.min.js"></script>   
         <script src="jquery.canvasjs.min.js"></script>
