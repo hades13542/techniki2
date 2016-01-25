@@ -9,10 +9,10 @@
       <head>
         <title>Zadanie 2 - WebService</title>
         <meta name="author" content="Paweł Najuch" />
-        <link type="text/css" href="zad2.css" rel="stylesheet" />
-        <script src="jquery-2.2.0.min.js"></script>   
-        <script src="jquery.canvasjs.min.js"></script>
-        <script src="myScript.js"></script>    
+        <link type="text/css" href="/stylesheet/zad2.css" rel="stylesheet" />
+        <script src="/js/jquery-2.2.0.min.js"></script>   
+        <script src="/js/jquery.canvasjs.min.js"></script>
+        <script src="/js/myScript.js"></script>    
         <script >
           var data = [] ; 
           <xsl:apply-templates select="root/data1" mode="js" />
